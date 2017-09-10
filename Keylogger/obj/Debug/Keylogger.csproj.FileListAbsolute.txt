@@ -1,0 +1,6 @@
+c:\users\urch\documents\visual studio 2015\Projects\Keylogger\Keylogger\bin\Debug\Keylogger.exe.config
+c:\users\urch\documents\visual studio 2015\Projects\Keylogger\Keylogger\bin\Debug\Keylogger.exe
+c:\users\urch\documents\visual studio 2015\Projects\Keylogger\Keylogger\bin\Debug\Keylogger.pdb
+c:\users\urch\documents\visual studio 2015\Projects\Keylogger\Keylogger\obj\Debug\Keylogger.csprojResolveAssemblyReference.cache
+c:\users\urch\documents\visual studio 2015\Projects\Keylogger\Keylogger\obj\Debug\Keylogger.exe
+c:\users\urch\documents\visual studio 2015\Projects\Keylogger\Keylogger\obj\Debug\Keylogger.pdb
